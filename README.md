@@ -1,5 +1,4 @@
 OpenSource
-Contact
 
 Name : Abhishek Gupta
 
